@@ -19,7 +19,7 @@ Map<String,Integer>unsortedList = new HashMap<String, Integer>();
 unsortedList.put("sachin", 1);
 unsortedList.put("sourav", 2);
 unsortedList.put("Dravid", 3);
-unsortedList.put("yuvi", 4);
+unsortedList.put("yuv", 4);
 unsortedList.put("laxman", 5);
 unsortedList.put("Laxman", 6);
 
